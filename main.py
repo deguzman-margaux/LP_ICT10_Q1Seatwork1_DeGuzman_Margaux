@@ -12,7 +12,7 @@ stud_info = {
 stud_favefruits = {
     "Orange", 
     "Apple", 
-    "Watermellon", 
+    "Watermelon", 
     "Grapes", 
     "Mango"
     } #Set
@@ -24,7 +24,7 @@ days_of_week = (
     "Friday", 
     "Saturday", 
     "Sunday"
-    )
+    ) #Tuple
 
 print("Name:", studname)
 print("Age:", studage)
